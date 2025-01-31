@@ -42,12 +42,10 @@ public class homepage {
 	
 	
 	
+
 //	public WebElement getOrglink() {
 //		return orglink;
 //	}
-	public WebElement getOrglink() {
-		return orglink;
-	}
 
 	public WebElement getContlink() {
 		return contlink;
